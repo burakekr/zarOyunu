@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\bin\Debug\zarOyunu.exe.config
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\bin\Debug\zarOyunu.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\bin\Debug\zarOyunu.pdb
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.Form1.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.Properties.Resources.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\zarOyunu\obj\Debug\zarOyunu.pdb
